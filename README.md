@@ -3,11 +3,13 @@
 STEP TO RUN:-
 
 SERVER SIDE
+
 1. cd /Swift-ProtoBuffer/SERVER-BINDER
 2. npm install
 3. npm start
 
 CLIENT SIDE
+
 1.OPEN XCODE PROJECT INSIDE CLIENT
 
 
